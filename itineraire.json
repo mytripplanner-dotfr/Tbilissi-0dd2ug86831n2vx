@@ -1,0 +1,119 @@
+{
+  "pays": "Géorgie",
+  "drapeau": "🇬🇪",
+  "symbole": "🍇",
+  "titre": "Évasion Relaxante à Tbilissi",
+  "budget_total": "790 €",
+  "duree": "4 jours",
+  "temps_vol": "7h30 (depuis Paris, france)",
+  "escale": "1",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée et Douceur Géorgienne",
+      "legende": "Après le vol, une immersion tranquille dans le charme historique de Tbilissi. Flânez dans les ruelles pavées du Vieux Tbilissi, imprégnez-vous de l'atmosphère unique et savourez un premier repas local pour débuter le voyage en douceur.",
+      "lieu": "Tbilissi",
+      "activites": [
+        "<strong>🛬 Arrivée à l'aéroport de Tbilissi (TBS)</strong>: Atterrissage et formalités douanières. Prévoyez un temps suffisant pour le transfert vers le centre-ville.",
+        "<strong>🛏️ Transfert et installation à l'hôtel</strong>: Rejoignez votre hébergement dans le quartier du Vieux Tbilissi pour déposer vos bagages et vous rafraîchir.",
+        "<strong>🚶‍♂️ Balade relaxante dans le Vieux Tbilissi</strong>: Promenez-vous sans hâte dans les ruelles colorées, admirez l'architecture typique et les balcons en bois sculpté.",
+        "<strong>🍽️ Dîner traditionnel géorgien</strong>: Savourez un délicieux repas avec des spécialités comme les khinkali et le khachapuri dans un restaurant local."
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "ℹ️",
+          "titre": "Transfert aéroport",
+          "texte": "Le trajet de l'aéroport au centre-ville de Tbilissi prend environ 20-30 minutes en taxi ou en bus (ligne 337). Les taxis sont abordables, mais négociez le prix avant de monter."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "♨️",
+      "titre": "Détente et Panoramas Urbains",
+      "legende": "Plongez dans la tradition millénaire des bains sulfureux, puis prenez de la hauteur pour admirer la ville sous un autre angle. Une journée équilibrée entre relaxation profonde et découvertes visuelles imprenables sur Tbilissi.",
+      "lieu": "Tbilissi",
+      "activites": [
+        "<strong>♨️ Matinée aux Bains Sulfureux d'Abanotubani</strong>: Offrez-vous une expérience unique de détente dans les célèbres bains publics, réputés pour leurs vertus thérapeutiques.",
+        "<strong>🚠 Téléphérique vers la Forteresse de Narikala</strong>: Montez en téléphérique pour une vue panoramique spectaculaire sur la ville et la rivière Koura depuis les hauteurs de la forteresse.",
+        "<strong>🚶‍♀️ Promenade au Jardin Botanique National de Géorgie</strong>: Descendez de la forteresse vers ce havre de paix verdoyant, idéal pour une balade douce et ressourçante au milieu de la nature.",
+        "<strong>🌉 Traversée du Pont de la Paix</strong>: Admirez cette structure moderne et lumineuse, un contraste saisissant avec l'architecture ancienne, reliant les deux rives de la ville."
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "🧖‍♀️",
+          "titre": "Conseil pour les bains",
+          "texte": "Pensez à réserver votre cabine privée à l'avance, surtout le week-end. Apportez votre maillot de bain, serviette et savon, ou louez-les sur place."
+        }
+      ]
+    },
+    {
+      "jour": 3,
+      "symbole": "🎨",
+      "titre": "Immersion Culturelle et Gastronomique",
+      "legende": "Explorez les trésors artistiques et religieux de la ville, puis laissez-vous tenter par une dégustation de vins locaux. Une journée pour éveiller les sens et l'esprit, entre histoire, art et saveurs authentiques de Géorgie.",
+      "lieu": "Tbilissi",
+      "activites": [
+        "<strong>⛪ Visite de la Cathédrale de la Sainte Trinité (Sameba)</strong>: Découvrez l'un des plus grands édifices religieux orthodoxes du monde, impressionnant par sa taille et son architecture.",
+        "<strong>🖼️ Exploration du Musée National de Géorgie</strong>: Plongez dans l'histoire et la culture géorgiennes, notamment avec le Trésor archéologique et l'exposition sur l'occupation soviétique.",
+        "<strong>🍷 Dégustation de vins géorgiens dans une cave locale</strong>: Initiez-vous aux méthodes de vinification ancestrales en qvevri et savourez les cépages uniques de la région.",
+        "<strong>🚶‍♂️ Flânerie sur l'Avenue Roustavéli</strong>: Promenez-vous sur la principale artère de Tbilissi, bordée de bâtiments historiques, théâtres et boutiques."
+      ],
+      "illustration": "jour3.jpg",
+      "encarts": [
+        {
+          "symbole": "🍇",
+          "titre": "Le vin géorgien",
+          "texte": "La Géorgie est le berceau du vin, avec une tradition viticole millénaire. Ne manquez pas de goûter les vins produits en qvevri, des jarres en terre cuite enterrées."
+        }
+      ]
+    },
+    {
+      "jour": 4,
+      "symbole": "🛍️",
+      "titre": "Derniers Instants et Départ",
+      "legende": "Profitez d'une dernière matinée pour chiner des souvenirs au marché, savourer un dernier café géorgien et vous imprégner de l'ambiance avant de prendre le chemin du retour. Une conclusion douce à votre séjour.",
+      "lieu": "Tbilissi",
+      "activites": [
+        "<strong>🛍️ Visite du Marché aux Puces du Pont Sec (Dry Bridge Market)</strong>: Flânez parmi les étals de ce marché éclectique où vous trouverez antiquités, objets d'art et souvenirs uniques.",
+        "<strong>☕ Café et pâtisserie géorgienne</strong>: Offrez-vous une pause gourmande dans un café typique, dégustant un café fort accompagné d'une douceur locale.",
+        "<strong>🎁 Achat de souvenirs de dernière minute</strong>: Profitez des dernières heures pour trouver des cadeaux ou des objets artisanaux à rapporter de votre voyage.",
+        "<strong>✈️ Transfert à l'aéroport et vol retour</strong>: Rejoignez l'aéroport de Tbilissi pour votre vol de retour vers Paris, la tête pleine de souvenirs."
+      ],
+      "illustration": "jour4.jpg",
+      "encarts": [
+        {
+          "symbole": "🎁",
+          "titre": "Souvenirs à rapporter",
+          "texte": "Pensez aux épices, au vin, au churchkhela (sucrerie à base de noix et de jus de raisin), ou à des objets d'artisanat local comme des émaux cloisonnés."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    { "titre": "Budget vol:", "legende": "251 €/pers (A/R depuis Paris)", "symbole": "🛬" },
+    { "titre": "Budget transports:", "legende": "25 €/pers (métro, bus, taxis, transferts aéroport)", "symbole": "🚆" },
+    { "titre": "Budget repas:", "legende": "180 €/pers (4 jours, 3 repas/jour, budget moyen)", "symbole": "🥗" },
+    { "titre": "Budget logement:", "legende": "260 €/pers (4 nuits en hôtel 3 étoiles, base double)", "symbole": "🛏️" },
+    { "titre": "Budget activités:", "legende": "70 €/pers (bains, musées, téléphérique, dégustation)", "symbole": "🎭" }
+  ],
+  "periodes_ideales": [
+    { "titre": "Avril - Mai", "symbole": "🌸" },
+    { "titre": "Septembre - Octobre", "symbole": "🍂" }
+  ],
+  "infos_pratiques": [
+    { "titre": "La monnaie locale est le Lari Géorgien (GEL). Les cartes de crédit sont acceptées dans la plupart des commerces, mais prévoyez du liquide pour les petits marchés ou taxis.", "symbole": "💳" },
+    { "titre": "La langue officielle est le géorgien. L'anglais est parlé dans les zones touristiques, et le russe est compris par une partie de la population plus âgée.", "symbole": "🗣️" },
+    { "titre": "Les prises électriques sont de type C et F (européennes), avec une tension de 220V. Pas besoin d'adaptateur si vous venez de France.", "symbole": "🔌" },
+    { "titre": "L'eau du robinet est généralement potable à Tbilissi, mais il est toujours préférable de demander ou de privilégier l'eau en bouteille si vous avez un estomac sensible.", "symbole": "💧" }
+  ],
+  "liens_utiles": [
+    { "legende": "Vols", "titre": "Réserve ton vol", "url": "https://www.kayak.fr/flights/CDG-TBS", "symbole": "🛬" },
+    { "legende": "Infos officielles et inspirations", "titre": "Tourisme Géorgie", "url": "https://georgia.travel/", "symbole": "📘" },
+    { "legende": "Transports en commun Tbilissi", "titre": "Tbilisi Transport", "url": "https://ttc.com.ge/en/", "symbole": "🚇" },
+    { "legende": "Météo", "titre": "Météo Tbilissi", "url": "https://www.accuweather.com/fr/ge/tbilisi/295212/weather-forecast/295212", "symbole": "🌤️" }
+  ]
+}
